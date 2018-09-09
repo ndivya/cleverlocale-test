@@ -178,3 +178,9 @@ img.icons-link {
         z-index: 999999;
 
 }
+@media only screen  and (max-width: 1030px){
+   .content-block{ top: 45px;}
+   .container.custom-container {
+    max-width: 800px;
+}
+}
